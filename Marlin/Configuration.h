@@ -138,7 +138,7 @@
 
 // Choose the name from boards.h that matches your setup
 #ifndef MOTHERBOARD
-  #define MOTHERBOARD BOARD_RAMPS_14_EFB
+  #define MOTHERBOARD BOARD_CREALITY_V4
 #endif
 
 // Name displayed in the LCD "Ready" message and Info menu
@@ -3174,7 +3174,7 @@
 //
 // Ender-3 v2 OEM display, enhanced.
 //
-//#define DWIN_CREALITY_LCD_ENHANCED
+#define DWIN_CREALITY_LCD_ENHANCED
 
 //
 // Ender-3 v2 OEM display with enhancements by Jacob Myers
