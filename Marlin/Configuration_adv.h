@@ -1863,14 +1863,6 @@
 
 #endif // HAS_MARLINUI_U8GLIB
 
-<<<<<<< HEAD
-#if HAS_MARLINUI_U8GLIB || IS_DWIN_MARLINUI
-  #define MENU_HOLLOW_FRAME           // Enable to save many cycles by drawing a hollow frame on Menu Screens
-  //#define OVERLAY_GFX_REVERSE       // Swap the CW/CCW indicators in the graphics overlay
-#endif
-
-=======
->>>>>>> c2281d18c4140061606307d27a6cb8c547ce259e
 //
 // Additional options for DGUS / DWIN displays
 //
